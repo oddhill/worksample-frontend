@@ -18,7 +18,7 @@ We expect you to host the code as a repository on Gitub under your own profile.
 
 ## Design
 
-We expect the design of the application to follow the design located in the [/design](design) folder of this repository. The folder contains the design as a [https://sketchapp.com/](Sketch)-file as well as exported PNG:s.
+We expect the design of the application to follow the design located in the [design](/design) folder of this repository. The folder contains the design as a [Sketch](https://sketchapp.com/)-file as well as exported PNG:s.
 
 ## Resources
 
