@@ -6,11 +6,11 @@ This repository contains everything you will need to create your worksample when
 
 The application you will be creating is an invoicing app that contains a table of invoices. These invoices can be sorted.
 
-When clicking an invoice it should open up a detailed view of the selected invoice.
+When clicking an invoice it should open up a detailed view of that selected invoice.
 
 ## Expectations
 
-We expect you to create the descibed application in your javascript framework of choise, you are also free to use any kind of css pre-processor or just regular css.
+We expect you to create the descibed application in your javascript framework of choice, you are also free to use any kind of css pre-processor or just use regular css.
 
 The finished worksample should have a readme describing how to get the application up and running.
 
@@ -20,11 +20,13 @@ We expect you to host the code as a repository on Gitub under your own profile.
 
 We expect the design of the application to follow the design located in the [design](/design) folder of this repository. The folder contains the design as a [Sketch](https://sketchapp.com/)-file as well as exported PNG:s.
 
+Note: If you want to use the Sketch-file as a reference a Mac computer is required. There is a free Trial available on the Sketch website.
+
 ## Resources
 
-// Font link.
-// Zepplin.
-// Something else?
+- Font link.
+- Zepplin.
+- Something else?
 
 ## If you have time
 
@@ -38,8 +40,8 @@ The menu items should just be placeholder items, there is no need to link them t
 
 ### Filter
 
-Filtering is done by clicking on the icon with three dots in the upper rigth corner. You decide what filters you want to add.
+Filtering is done by clicking on the icon with three dots in the upper rigth corner of the invoices area. You decide what filters you want to add.
 
-### Interaction
+### UI & UX
 
-// Something about interactions.
+Polish the user interface by adding interaction, animations or anything else you feel would enrich the user experience. You decide yourself what part of the UI/UX you want to polish.
