@@ -46,7 +46,4 @@ Filtering is done by clicking on the icon with three dots in the upper rigth cor
 Polish the user interface by adding interaction, animations or anything else you feel would enrich the user experience. You decide yourself what part of the UI/UX you want to polish.
 
 ## Have fun
-This test is not about pointing fingers if something is 5px off or if you shouldn't be able to finish it all. We want to see how you think and how you adapt a static design into code.
-
-Best of wishes,
-Anton & Christoffer
+This test is not about pointing fingers if something is 5px off. We want to see how you think and how you adapt a static design into code.
