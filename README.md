@@ -24,9 +24,8 @@ Note: If you want to use the Sketch-file as a reference a Mac computer is requir
 
 ## Resources
 
-- Font link.
-- Zepplin.
-- Something else?
+- https://fonts.google.com/specimen/Roboto
+- You should have a link to zeplin.io in your email.
 
 ## If you have time
 
@@ -45,3 +44,9 @@ Filtering is done by clicking on the icon with three dots in the upper rigth cor
 ### UI & UX
 
 Polish the user interface by adding interaction, animations or anything else you feel would enrich the user experience. You decide yourself what part of the UI/UX you want to polish.
+
+## Have fun
+This test is not about pointing fingers if something is 5px off or if you shouldn't be able to finish it all. We want to see how you think and how you adapt a static design into code.
+
+Best of wishes,
+Anton & Christoffer
