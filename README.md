@@ -4,9 +4,7 @@ This repository contains everything you will need to create your worksample when
 
 ## The application
 
-The application you will be creating is a invoicing app that contains a table of invoices. The invoices can be sorted and filtered.
-
-Filtering is done by clicking on the icon with three dots in the upper rigth corner.
+The application you will be creating is an invoicing app that contains a table of invoices. These invoices can be sorted.
 
 When clicking an invoice it should open up a detailed view of the selected invoice.
 
@@ -27,3 +25,11 @@ We expect the design of the application to follow the design located in the [/de
 // Font link.
 
 ## If you have time
+
+### Filter
+
+Filtering is done by clicking on the icon with three dots in the upper rigth corner.
+
+### Interaction
+
+// Soething about interactions.
