@@ -22,6 +22,8 @@ The final work sample should include a readme on how to get the project up and r
 
 You are not expected to include any JavaScript but if you want to make the menu interactive you may include JavaScript but avoid using frameworks like jQuery and instead focus on writing Vanilla JavaScript.
 
+We expect you to host the code as a repository on Github or GitLab under your own profile.
+
 ## The design
 
 The design for the worksample is hosted on Figma and you may view it by going to the following link.
@@ -35,3 +37,7 @@ If you have the time you may build at least one of the pages in the design with 
 ## If you have even more time
 
 If you have even more time build all of the pages in a JavaScript framework and build some of the interactive elements like the rating.
+
+## Remember to have fun!
+
+This work sample is not about pointing fingers if something is off. We want to see how you think and how you adapt requirements into code.
